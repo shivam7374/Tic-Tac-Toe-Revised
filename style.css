@@ -1,4 +1,8 @@
-.container{
+button#restart{
+    height: 50px;
+    padding: 15px;
+    background-color: chocolate;
+
 }
 table#game td{
     height: 200px;
