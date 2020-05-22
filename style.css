@@ -1,0 +1,13 @@
+.container{
+}
+table#game td{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    background-color: beige;
+    border-radius: 20px;
+    border:solid chocolate;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60pt;
+}
